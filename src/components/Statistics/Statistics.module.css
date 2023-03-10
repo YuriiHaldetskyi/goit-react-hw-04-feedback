@@ -1,0 +1,23 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.statistic__good {
+  color: green;
+}
+.statistic__neutral {
+  color: orange;
+}
+
+.statistic__bad {
+  color: red;
+}
+
+.statistic__text {
+  text-align: center;
+  color: tomato;
+}

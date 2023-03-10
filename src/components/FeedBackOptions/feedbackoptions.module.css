@@ -1,0 +1,21 @@
+.wrapper {
+  display: flex;
+  gap: 15px;
+  align-items: center;
+  justify-content: center;
+}
+.btn {
+  border-radius: 15%;
+  padding: 10px;
+  width: auto;
+  height: 50px;
+  outline: none;
+  border: none;
+  text-align: center;
+  background-color: rgb(209, 196, 196);
+}
+
+.btn:focus,
+.btn:hover {
+  background-color: #3452ea99;
+}
